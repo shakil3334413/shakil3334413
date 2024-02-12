@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Development Design Consultants ltd (DDC)](http://www.ddclbd.com/)
+- 🔭 I’m currently working on [3DEVs IT Ltd](https://3-devs.com/)
 
 - 🌱 I’m currently learning **Laravel,Vue Js**
 
