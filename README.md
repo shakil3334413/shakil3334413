@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 🔭 I’m currently working  as a Full-Stack Software Engineer (PHP) at 3DEVs IT Ltd (https://3-devs.com/)
+- 🔭 I’m currently working  as a Senior Software Engineer (Infrastructure / DevOps) at 3DEVs IT Ltd (https://3-devs.com/)
 
 - 🌱 I’m currently learning **Laravel,Vue Js**
 
